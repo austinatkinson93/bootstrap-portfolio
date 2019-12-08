@@ -1,7 +1,90 @@
 
 
+html, body {
+   height:100%;
+}
+
+#holder {
+    min-height: 100%;
+    position: relative;
+}
 /* navigation and headers */
 
-.navigation  {
+/* headers and page setup start */
+
+
+.navbar .navbar-expand .navbar-light .bg-light {
     background-color: white;
+} 
+
+.navigation {
+    background-color: white;
+    border-bottom: solid lightgrey 1px;
+}
+
+.navbar-brand {
+    background-color:#4aaaa5;
+    color: white;
+    margin: 0;
+   padding: 18px;
+   
+}
+
+#navbarNavDropdown {
+    margin-top: 10px;
+}
+
+#contentsection {
+    border: solid lightgrey 2px;
+    margin-top: 2%;
+    min-height: 500px;
+}
+
+#sectionheader {
+    margin:1%;
+    padding: 1%;
+    border-bottom: solid lightgrey 2px;
+    color: #4aaaa5;
+}
+/* Headers and page setup end */
+
+
+/* content */
+.aboutmeparagraph {
+    min-height:100px;
+    margin: 10px;
+    padding:10px;
+}
+.img-fluid {
+     height: 225px;
+     width: 100%;
+     margin: 10px;
+     border: solid black 1px;
+ }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.footer {
+    position: absolute;
+    bottom: 0;
+    background-color: lightgrey;
+    width: 100%;
+    text-align:center;
+    font-size: 8px;
+    border-top: 2px solid #4aaaa5;
+    padding-top: 30px;
+    margin-top: 20px;
 }
