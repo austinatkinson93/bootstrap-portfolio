@@ -1,0 +1,38 @@
+
+
+ .navigation {
+    background-color: white;
+}
+
+
+#contentsection {
+    border: solid grey;
+    margin-top: 4%;
+    min-height: 500px;
+}
+
+#sectionheader {
+    margin:1%;
+    padding: 1%;
+    border-bottom: solid grey;
+}
+
+
+
+
+
+
+
+
+.footer {
+    position: absolute;
+    bottom:0;
+    background-color:black;
+    width: 100%;
+    min-height: 50px;
+    text-align:center;
+    font-size: 8px;
+    border-top: 5px solid #4eeeef;
+    padding-top: 30px;
+    
+}
