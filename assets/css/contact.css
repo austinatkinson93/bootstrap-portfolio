@@ -49,8 +49,13 @@ html, body {
 
 
 
+.submitbutton {
+    padding-bottom: 2px;
+}
 
-
+#contentsection {
+    max-width: 960px;
+}
 
 
 
