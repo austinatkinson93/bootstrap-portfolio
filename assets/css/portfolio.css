@@ -5,6 +5,10 @@ body {
 }
 
  
+#holder {
+    min-height: 100%;
+    position: relative;
+}
 
 
 

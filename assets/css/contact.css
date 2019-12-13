@@ -5,7 +5,7 @@ html, body {
  #holder {
      min-height: 100%;
      position: relative;
-     width: 90%;    
+        
  }
 
 
@@ -62,8 +62,6 @@ html, body {
 
 /* footer */
 .footer {
-    position: absolute;
-    bottom: 0;
     background-color: lightgrey;
     width: 100%;
     text-align:center;

@@ -37,7 +37,7 @@ html, body {
 #contentsection {
     border: solid lightgrey 2px;
     margin-top: 2%;
-    min-height: 500px;
+    min-height: 450px;
 }
 
 #sectionheader {
@@ -51,7 +51,7 @@ html, body {
 
 /* content */
 .aboutmeparagraph {
-    min-height:100px;
+    min-height:90px;
     margin: 10px;
     padding:10px;
 }
@@ -62,24 +62,7 @@ html, body {
      border: solid black 1px;
  }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 .footer {
-    position: absolute;
-    bottom: 0;
     background-color: lightgrey;
     width: 100%;
     text-align:center;
