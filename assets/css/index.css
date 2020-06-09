@@ -2,6 +2,8 @@
 
 html, body {
    height:100%;
+   background-image: url("https://www.designyourway.net/blog/wp-content/uploads/2018/12/programming-wallpaper9-700x394.jpg");
+   background-repeat: repeat-x;
 }
 
 #holder {
@@ -15,24 +17,27 @@ html, body {
 
 .navbar .navbar-expand .navbar-light .bg-light {
     background-color: white;
+    
 } 
 
 .navigation {
     background-color: white;
     border-bottom: solid lightgrey 1px;
+    
 }
 
 .navbar-brand {
+    background-image: url("https://www.designyourway.net/blog/wp-content/uploads/2018/12/programming-wallpaper19-700x394.jpg");
     background-color:#4aaaa5;
     color: white;
     margin: 0;
-   padding: 18px;
+    padding: 18px;
    
 }
 
 #navbarNavDropdown {
     margin-top: 10px;
-}
+} 
 
 #contentsection {
     border: solid lightgrey 2px;
